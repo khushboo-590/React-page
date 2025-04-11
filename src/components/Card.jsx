@@ -29,7 +29,7 @@ const Card = () => {
                                         </div>
                                         <div className="iconbox">
                                             <a href="https://www.shopsy.in/" target="_blank">
-                                                <img src="public/assets/img/svg/doller.svg"class="doller"></img>
+                                                <img src="../assets/img/svg/doller.svg"class="doller"></img>
                                             </a>
                                         </div>
                                     </div>
