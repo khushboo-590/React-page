@@ -114,7 +114,6 @@
 
 .iconbox:hover svg path {
     fill: white;
-    transition: all 200ms linear;
 }
 
 .card:hover .iconbox-container {
